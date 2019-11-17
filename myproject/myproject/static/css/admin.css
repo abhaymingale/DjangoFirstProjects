@@ -1,0 +1,30 @@
+#header {
+  width: auto;
+  height: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 40px;
+  background: #036;
+  color: #ffc;
+  overflow: hidden;
+}
+div.breadcrumbs {
+  background: #30caa0;
+  padding: 10px 40px;
+  border: none;
+  font-size: 14px;
+  color: #c4dce8;
+  text-align: left;
+}
+.module h2,
+.module caption,
+.inline-group h2 {
+  margin: 0;
+  padding: 8px;
+  font-weight: 400;
+  font-size: 13px;
+  text-align: left;
+  background: #30caa0;
+  color: #fff;
+}
